@@ -20,6 +20,7 @@ I'm **Vadim Bednov**, an independent developer behind **v.build**. I build websi
 - **Telegram products** — mini apps, bots, notifications and service integrations.
 - **Interactive experiences** — promotional games and business gamification.
 - **Tools & automation** — browser extensions, APIs, workflows and AI integrations.
+- **Much much more)**
 
 I take care of the full product: frontend, server-side logic, data and third-party services. Project handover includes **support and a detailed FAQ**.
 
@@ -55,6 +56,8 @@ A cozy weekly planner for tasks, sleep, mood, energy, habits, a calendar and per
 **Backend & data** — Node.js · REST APIs · Webhooks · PostgreSQL · Supabase · Firebase  
 **Integrations** — Telegram Bot API · Payment & email workflows · OpenAI API · RAG  
 **Delivery** — Git · GitHub · CI/CD · Vercel · Cloudflare
+
+The stack is not limited to the above, but is selected individually for each task.
 
 <details>
 <summary><b>Have an idea, but no technical brief yet?</b></summary>
